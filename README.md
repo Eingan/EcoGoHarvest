@@ -1,16 +1,22 @@
 # eco_go_harvest
 
-A new Flutter project.
+# LOSDOL TEAM
+Full Name: Ahmad Nuski Ni'am
+Gender: Male
+Role: Hacker
+Email (Gmail): ahmadnuski23@gmail.com
 
-## Getting Started
+Full Name: Muhammad Fahrur Riza
+Gender: Male
+Role: Hacker
+Email (Gmail): fahruloke28@gmail.com
 
-This project is a starting point for a Flutter application.
+Full Name: Nurul Izzah 
+Gender: Female 
+Role: Hustler 
+Email (Gmail): nurulizzah398@gmail.com
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Full Name: Adila Qurrota A'yun 
+Gender: Female
+Role: Hipster 
+Email (Gmail): adilahasna1909@gmail.com
