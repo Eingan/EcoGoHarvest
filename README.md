@@ -1,5 +1,7 @@
 # eco_go_harvest
 
+"EcoGoHarvest" is an innovative application designed to provide an in-depth understanding of water hyacinth processing and promote a marketplace for water hyacinth-based processed products. With a combination of learning features, marketplace and useful information.
+
 # LOSDOL TEAM
 Full Name: Ahmad Nuski Ni'am
 Gender: Male
