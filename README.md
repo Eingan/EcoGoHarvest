@@ -1,4 +1,5 @@
 # eco_go_harvest
+![OIG](https://github.com/Eingan/EcoGoHarvest/assets/148530363/d38b2431-6d28-48fd-ba48-5131175c7812)
 
 "EcoGoHarvest" is an innovative application designed to provide an in-depth understanding of water hyacinth processing and promote a marketplace for water hyacinth-based processed products. With a combination of learning features, marketplace and useful information.
 
